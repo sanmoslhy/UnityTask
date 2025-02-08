@@ -1,0 +1,12 @@
+# ninja log v5
+45	806	7607449646394991	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	7da902673265bc4c
+807	1694	7607449655254426	D:/NextGameOfEmpire/New folder/UnityTask/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3s1f4c3d/obj/arm64-v8a/libswappywrapper.so	3b626e4253eee090
+24	2161	7607449659691784	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	e048e22674dd7706
+18	2201	7607449660131723	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	b3c66aebddea65f0
+0	2222	7607449659986794	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	7f4eac4d70dd1c75
+35	2240	7607449660534729	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	5e26293aca131288
+40	2380	7607449661560725	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	86f7385ec65aaccd
+13	2440	7607449662915235	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	9b2a65f34d8ae10e
+29	2605	7607449664647375	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	2f0219f320736078
+8	2698	7607449665579967	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	31cfe3aaadf12d2b
+2698	2785	7607449666533692	D:/NextGameOfEmpire/New folder/UnityTask/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3s1f4c3d/obj/arm64-v8a/libgame.so	bfdec8426af3a580

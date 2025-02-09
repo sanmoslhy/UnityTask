@@ -1061,7 +1061,55 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2649634807923037143}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 3937737124705316955}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 3069543870778252117}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 6356536030918937437}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 0}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
 --- !u!1 &6800897395582218953
 GameObject:
   m_ObjectHideFlags: 0
@@ -1074,6 +1122,7 @@ GameObject:
   - component: {fileID: 4659815008502155049}
   - component: {fileID: 4799132099017991493}
   - component: {fileID: 1148894868677462099}
+  - component: {fileID: 5403941164025586439}
   m_Layer: 5
   m_Name: OptionTwoButton
   m_TagString: Untagged
@@ -1182,6 +1231,30 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &5403941164025586439
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6800897395582218953}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4b649a34d6252c4b80635344f795260, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  OptionTwoButton: {fileID: 1148894868677462099}
+  OptionTwoImage: {fileID: 4799132099017991493}
+  OptionTwoDefault: {fileID: 21300000, guid: f6a5a22f8032bd14b9e6211496687371, type: 3}
+  OptionTwoClicked: {fileID: 21300000, guid: 9b954a8a0ccde924a87168f77900be59, type: 3}
+  OptionOneButton: {fileID: 8475659423864812548}
+  OptionOneImage: {fileID: 4913377679036587829}
+  OptionOneDefault: {fileID: 21300000, guid: d46efc1ea9738ca47aebceaafb5d1265, type: 3}
+  OptionOneClicked: {fileID: 21300000, guid: 34e2d7f4b64feec41903efa697bbdc57, type: 3}
+  OptionThreeButton: {fileID: 4983541299786970546}
+  OptionThreeImage: {fileID: 9095767462168205154}
+  OptionThreeDefault: {fileID: 21300000, guid: f6d21882027f62c40ae56d8818c5c9d0, type: 3}
+  OptionThreeClicked: {fileID: 21300000, guid: 52f91d8544fc89749a5f7e49c6ef13a5, type: 3}
 --- !u!1 &7162280988839854926
 GameObject:
   m_ObjectHideFlags: 0
